@@ -8,3 +8,5 @@ Pleasse make sure the copyright note and haven't removed the credit! (it will be
 **Template was created by Roee Lupo (aka MrSheldon) using bootsrap 4**
 
 Live Demo --> https://mrsheldon.github.io/discord-bot-website/index.html
+
+Find the template [here](https://github.com/RoeeLupo/discord-bot-website)
